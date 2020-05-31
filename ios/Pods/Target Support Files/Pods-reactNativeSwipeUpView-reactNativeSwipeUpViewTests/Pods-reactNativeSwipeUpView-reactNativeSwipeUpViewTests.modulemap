@@ -1,0 +1,6 @@
+module Pods_reactNativeSwipeUpView_reactNativeSwipeUpViewTests {
+  umbrella header "Pods-reactNativeSwipeUpView-reactNativeSwipeUpViewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
